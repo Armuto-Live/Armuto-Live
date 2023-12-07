@@ -27,7 +27,7 @@
 </div>
 <hr/>
 
-<h2 align="center">Lenguajes - Framework - Herramientas</h3>
+<h2 align="center">Lenguajes - Framework - Herramientas</h2>
 <br/>
 <div align="center">  
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -38,7 +38,11 @@
 </div>
 <br/>
 <hr/>
-
+<div align="center">
+  <h2 align="center">Mis contribuciones</h2>
+  <br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Armuto-Live/Armuto-Live/output/github-contribution-grid-snake.svg" />
+</div>
 <div align='center'>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=armuto-live&show_icons=true&locale=en&layout=compact" alt="armuto-live" /></p>
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=armuto-live&show_icons=true&locale=en" alt="armuto-live" /></p>
