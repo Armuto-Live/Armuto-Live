@@ -17,12 +17,10 @@
   <a href="mailto:luisarmuto3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  target="_blank" />  
   </a>
-  <br/>
-  <a href="https://www.linkedin.com/in/luis-armuto-abarca/" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-armuto-abarca/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />  
   </a>
-  <br/>
-  <a href="https://portafolio-v2-armuto.netlify.app/" >
+  <a href="https://portafolio-v2-armuto.netlify.app/" target="_blank >
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />  
   </a>
   
