@@ -6,16 +6,15 @@
 
 <h3 align="center">Me apasiona la creación de interfaces atractivas y funcionales que optimicen la experiencia de usuario.</h3>
 <br/>
-<div>
+<div align="center">
   
   Actualmente estoy aprendiendo **JavaScript, React js, Tailwind Css, Java**
   
 </div>
 
 <div align="center">
-
-  <a href="mailto:devarmuto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  <a href="mailto:luisarmuto3@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  target="_blank" />
   <a/>
   
 </div>
