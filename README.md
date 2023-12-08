@@ -47,8 +47,8 @@
 <hr/>
 <h2 align="center">Mis Estadísticas</h2>
 <div align="center">
-    <img height=165 width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=armuto-live&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="armuto-live" />
-    <img height=165 width=390 src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="armuto-live" />
+    <img height=165 width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Armuto-Live&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="armuto-live" />
+    <img height=165 width=390 src="https://github-readme-stats.vercel.app/api?username=/Armuto-Live&show_icons=true&theme=tokyonight" alt="armuto-live" />
     <br/>
     <img src="https://streak-stats.demolab.com?user=Armuto-Live&theme=algolia&card_width=500" alt="GitHub Streak" />
     
