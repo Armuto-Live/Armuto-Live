@@ -4,11 +4,10 @@
 </h1>
 
 
-<h3 align="center">Me apasiona la creación de interfaces atractivas y funcionales que optimicen la experiencia de usuario.</h3>
 <br/>
 <div align="center">
   
-  Actualmente estoy aprendiendo **JavaScript, React js, Tailwind Css, Java**
+  Actualmente estoy aprendiendo **React js, Tailwind Css, Elixir, Phoenix**
   
 </div>
 
