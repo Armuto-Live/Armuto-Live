@@ -30,7 +30,7 @@
 <br/>
 <div align="center">  
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=java,mysql,aws,firebase" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,aws,firebase,elixir" />
     <br/>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,materialui,tailwind,figma,git" />
   </a> 
