@@ -7,12 +7,12 @@
 <br/>
 <div align="center">
   
-  Actualmente estoy aprendiendo **React js, Tailwind Css, Elixir, Phoenix**
+  Actualmente estoy aprendiendo **LLMs, Valkey**
   
 </div>
 
 <div align="center">
-  <a href="mailto:luisarmuto3@gmail.com">
+  <a href="mailto:devarmuto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  target="_blank" />  
   </a>
   
@@ -20,9 +20,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />  
   </a>
   
-  <a href="https://portafolio-armuto.netlify.app/" target="_blank" >
+  <!--<a href="https://portafolio-armuto.netlify.app/" target="_blank" >
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  
-  </a>
+  </a> -->
 </div>
 <hr/>
 
@@ -32,7 +32,7 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=mysql,aws,firebase,elixir" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,materialui,tailwind,figma,git,phoenix" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,materialui,git,phoenix" />
   </a> 
 </div>
 <br/>
