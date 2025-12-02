@@ -50,6 +50,6 @@
     <img height=165 width=390 src="https://github-readme-stats.vercel.app/api?username=Armuto-Live&show_icons=true&theme=tokyonight" alt="armuto-live" />
     <br/>
     <img src="https://streak-stats.demolab.com?user=Armuto-Live&theme=algolia&card_width=500" alt="GitHub Streak" />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Armuto-Live" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Armuto-Live&theme=algolia" alt="GitHub Streak" /></a>
     
 </div>
